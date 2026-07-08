@@ -1,0 +1,50 @@
+{
+  "title": "Song 2",
+  "tracks": [
+    {
+      "title": "Backing",
+      "url": "../piano.wav",
+      "pan": 0,
+      "gain": 0.95,
+      "muted": false,
+      "hidden": false
+    },
+    {
+      "title": "Soprano",
+      "url": "../Soprano.wav",
+      "pan": 35,
+      "gain": 1.05,
+      "muted": false,
+      "hidden": false
+    },
+    {
+      "title": "Alto",
+      "url": "../Alto.wav",
+      "pan": 12,
+      "gain": 1,
+      "muted": false,
+      "hidden": false
+    },
+    {
+      "title": "Tenor",
+      "url": "../Tenor.wav",
+      "pan": -12,
+      "gain": 0.95,
+      "muted": false,
+      "hidden": false
+    },
+    {
+      "title": "Bass",
+      "url": "../Bass.wav",
+      "pan": -35,
+      "gain": 1.05,
+      "muted": false,
+      "hidden": false
+    }
+  ],
+  "master": {
+    "pan": 0,
+    "gain": 1,
+    "muted": false
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "songs": [
+    {
+      "id": "song-1",
+      "label": "Song 1",
+      "configUrl": "./songs/song-1.json"
+    },
+    {
+      "id": "song-2",
+      "label": "Song 2",
+      "configUrl": "./songs/song-2.json"
+    }
+  ]
+}
