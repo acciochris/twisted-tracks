@@ -36,7 +36,13 @@
     }
 
     .mixer-shell {
-      margin-top: 6px;
+      margin-top: 20px;
+    }
+
+    .song-notes {
+      margin-top: 20px;
+      white-space: pre-wrap;
+      font: inherit;
     }
 
     .vue-audio-mixer,
@@ -84,6 +90,8 @@
           </option>
         </select>
       </section>
+
+      <pre v-if="activeConfig.notes" class="song-notes" v-text="activeConfig.notes"></pre>
 
       <section class="mixer-shell">
         <div v-if="activeConfig">
@@ -208,6 +216,7 @@
 
           return {
             title: config.title || (this.activeSong && this.activeSong.label) || 'Untitled song',
+            notes: typeof config.notes === 'string' ? config.notes : '',
             tracks: config.tracks.map((track) => ({
               ...track,
               url: new URL(track.url, configBase).href
