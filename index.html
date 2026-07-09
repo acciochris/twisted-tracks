@@ -36,11 +36,26 @@
     }
 
     .mixer-shell {
-      margin-top: 12px;
+      margin-top: 6px;
+    }
+
+    .vue-audio-mixer,
+    .vue-audio-mixer-loading-hider,
+    .vue-audio-mixer-channel-strip,
+    .time_and_transport {
+      overflow: visible !important;
+    }
+
+    .vue-audio-mixer-timer {
+      white-space: nowrap !important;
+    }
+
+    .vue-audio-mixer-transport {
+      margin-top: 26px !important;
     }
 
     .vue-audio-mixer-download-mix {
-      display: none;
+      display: none !important;
     }
 
     @media (max-width: 450px) {
@@ -72,8 +87,8 @@
 
       <section class="mixer-shell">
         <div v-if="activeConfig">
-          <vue-audio-mixer :config="activeConfig" :size="mixerSize" :theme="mixerTheme" :show-pan="true"
-            :show-total-time="true" />
+          <vue-audio-mixer ref="audioMixer" :config="activeConfig" :size="mixerSize" :theme="mixerTheme"
+            :show-pan="true" :show-total-time="true" />
         </div>
       </section>
     </div>
@@ -92,7 +107,7 @@
           activeConfig: null,
           isLoadingManifest: false,
           isLoadingSong: false,
-          manifestUrl: './songs/index.json',
+          manifestUrl: './twisted.json',
           mixerSize: 'medium',
           mixerTheme: 'default',
           sizeQuery: window.matchMedia('(max-width: 450px)'),
@@ -121,6 +136,10 @@
         },
         updateMixerTheme: function () {
           this.mixerTheme = this.themeQuery.matches ? 'dark' : 'default';
+        },
+        stopActiveMixer: function () {
+          const mixer = this.$refs.audioMixer;
+          mixer && mixer.pause();
         },
         loadManifest: async function () {
           this.isLoadingManifest = true;
@@ -152,6 +171,7 @@
         loadSelectedSong: async function () {
           const song = this.songs.find((entry) => entry.id === this.selectedSongId);
 
+          this.stopActiveMixer();
           this.activeSong = song || null;
           this.activeConfig = null;
 

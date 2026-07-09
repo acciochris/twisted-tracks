@@ -1,0 +1,18 @@
+{
+    "title": "02 Dream a Little Harder",
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./02-dream-a-little-harder/02-dream-a-little-harder.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

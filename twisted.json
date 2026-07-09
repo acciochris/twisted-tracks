@@ -1,0 +1,74 @@
+{
+    "songs": [
+        {
+            "id": "02-dream-a-little-harder",
+            "label": "02 Dream a Little Harder",
+            "configUrl": "./songs/02-dream-a-little-harder.json"
+        },
+        {
+            "id": "03-i-steal-everything",
+            "label": "03 I Steal Everything",
+            "configUrl": "./songs/03-i-steal-everything.json"
+        },
+        {
+            "id": "04-everything-and-more",
+            "label": "04 Everything and More",
+            "configUrl": "./songs/04-everything-and-more.json"
+        },
+        {
+            "id": "06-the-golden-rule-part-1",
+            "label": "06 The Golden Rule - Part 1",
+            "configUrl": "./songs/06-the-golden-rule-part-1.json"
+        },
+        {
+            "id": "06a-the-golden-rule-part-2",
+            "label": "06A The Golden Rule - Part 2",
+            "configUrl": "./songs/06a-the-golden-rule-part-2.json"
+        },
+        {
+            "id": "07-1001-nights",
+            "label": "07 1001 Nights",
+            "configUrl": "./songs/07-1001-nights.json"
+        },
+        {
+            "id": "08-if-i-believed",
+            "label": "08 If I Believed",
+            "configUrl": "./songs/08-if-i-believed.json"
+        },
+        {
+            "id": "09-orphaned-at-33",
+            "label": "09 Orphaned at 33",
+            "configUrl": "./songs/09-orphaned-at-33.json"
+        },
+        {
+            "id": "10-happy-ending",
+            "label": "10 Happy Ending",
+            "configUrl": "./songs/10-happy-ending.json"
+        },
+        {
+            "id": "12-no-one-remembers-achmed",
+            "label": "12 No One Remembers Achmed",
+            "configUrl": "./songs/12-no-one-remembers-achmed.json"
+        },
+        {
+            "id": "13-take-off-your-clothes",
+            "label": "13 Take off Your Clothes",
+            "configUrl": "./songs/13-take-off-your-clothes.json"
+        },
+        {
+            "id": "14-twisted",
+            "label": "14 Twisted",
+            "configUrl": "./songs/14-twisted.json"
+        },
+        {
+            "id": "15-the-power-in-me",
+            "label": "15 The Power in Me",
+            "configUrl": "./songs/15-the-power-in-me.json"
+        },
+        {
+            "id": "16-finale-1001-nights-reprise",
+            "label": "16 Finale - 1001 Nights Reprise",
+            "configUrl": "./songs/16-finale-1001-nights-reprise.json"
+        }
+    ]
+}
