@@ -85,13 +85,14 @@
       <section class="toolbar">
         <select id="song-select" v-model="selectedSongId"
           :disabled="isLoadingManifest || isLoadingSong || songs.length === 0">
+          <option value="" disabled>Select a song</option>
           <option v-for="song in songs" :key="song.id" :value="song.id">
             {{ song.label }}
           </option>
         </select>
       </section>
 
-      <pre v-if="activeConfig.notes" class="song-notes" v-text="activeConfig.notes"></pre>
+      <pre v-if="activeConfig && activeConfig.notes" class="song-notes" v-text="activeConfig.notes"></pre>
 
       <section class="mixer-shell">
         <div v-if="activeConfig">
@@ -167,7 +168,6 @@
             }
 
             this.songs = songs;
-            this.selectedSongId = this.selectedSongId || songs[0].id;
           } catch (error) {
             this.songs = [];
             this.activeSong = null;

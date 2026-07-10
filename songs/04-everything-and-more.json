@@ -1,1 +1,19 @@
-{"title": "04 Everything and More", "tracks": [{"title": "Song", "url": "./04-everything-and-more/04-everything-and-more.mp3", "pan": 0, "gain": 1, "muted": false, "hidden": false}], "master": {"pan": 0, "gain": 1, "muted": false}}
+{
+    "title": "04 Everything and More",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./04-everything-and-more/04-everything-and-more.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

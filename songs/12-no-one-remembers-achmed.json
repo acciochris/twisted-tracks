@@ -1,1 +1,19 @@
-{"title": "12 No One Remembers Achmed", "tracks": [{"title": "Song", "url": "./12-no-one-remembers-achmed/12-no-one-remembers-achmed.mp3", "pan": 0, "gain": 1, "muted": false, "hidden": false}], "master": {"pan": 0, "gain": 1, "muted": false}}
+{
+    "title": "12 No One Remembers Achmed",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./12-no-one-remembers-achmed/12-no-one-remembers-achmed.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

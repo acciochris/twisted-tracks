@@ -1,1 +1,19 @@
-{"title": "15 The Power in Me", "tracks": [{"title": "Song", "url": "./15-the-power-in-me/15-the-power-in-me.mp3", "pan": 0, "gain": 1, "muted": false, "hidden": false}], "master": {"pan": 0, "gain": 1, "muted": false}}
+{
+    "title": "15 The Power in Me",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./15-the-power-in-me/15-the-power-in-me.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}
