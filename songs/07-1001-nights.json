@@ -1,0 +1,19 @@
+{
+    "title": "07 1001 Nights",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./07-1001-nights/07-1001-nights.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

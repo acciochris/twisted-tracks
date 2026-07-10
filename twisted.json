@@ -1,0 +1,19 @@
+{
+    "songs": [
+        {
+            "id": "02-dream-a-little-harder",
+            "label": "02 Dream a Little Harder",
+            "configUrl": "./songs/02-dream-a-little-harder.json"
+        },
+        {
+            "id": "06-the-golden-rule-part-1",
+            "label": "06 The Golden Rule - Part 1",
+            "configUrl": "./songs/06-the-golden-rule-part-1.json"
+        },
+        {
+            "id": "14-twisted",
+            "label": "14 Twisted",
+            "configUrl": "./songs/14-twisted.json"
+        }
+    ]
+}

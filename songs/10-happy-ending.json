@@ -1,0 +1,19 @@
+{
+    "title": "10 Happy Ending",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./10-happy-ending/10-happy-ending.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

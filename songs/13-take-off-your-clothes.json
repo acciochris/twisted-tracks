@@ -1,0 +1,19 @@
+{
+    "title": "13 Take off Your Clothes",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./13-take-off-your-clothes/13-take-off-your-clothes.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

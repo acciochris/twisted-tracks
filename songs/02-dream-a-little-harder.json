@@ -1,0 +1,51 @@
+{
+    "title": "02 Dream a Little Harder",
+    "notes": "02:03:00 m68 'Good things will just happen'\n02:55:00 m95 'Jafar'\n03:15:00 m106 'cause if we want it bad enough'\n03:34:00 m119 'will give you the edge that you need'\n04:28:00 m149 'Wish a little stronger'\n05:05:00 m169 'And if we'",
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./02-dream-a-little-harder/02-dream-a-little-harder.mp3",
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./02-dream-a-little-harder/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Alto",
+            "url": "./02-dream-a-little-harder/Alto.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./02-dream-a-little-harder/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./02-dream-a-little-harder/Bass.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

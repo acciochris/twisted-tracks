@@ -1,0 +1,51 @@
+{
+    "title": "14 Twisted",
+    "notes": "03:45:00 m104 'Twisted'\n04:18:00 m142 'I only wished'\n06:38:00 m221 'Ah'",
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./14-twisted/14-twisted.mp3",
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./14-twisted/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Alto",
+            "url": "./14-twisted/Alto.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./14-twisted/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./14-twisted/Bass.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

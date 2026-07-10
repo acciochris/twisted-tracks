@@ -1,0 +1,19 @@
+{
+    "title": "09 Orphaned at 33",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./09-orphaned-at-33/09-orphaned-at-33.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

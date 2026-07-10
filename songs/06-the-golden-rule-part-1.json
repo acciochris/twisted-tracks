@@ -1,0 +1,43 @@
+{
+    "title": "06 The Golden Rule - Part 1",
+    "notes": "02:58:00 m59 'Follow the golden rule'\n03:28:00 m80 'Follow the golden rule'\n03:53:00 m99 'And remember'\n04:12:00 m111 'We get what we give'",
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./06-the-golden-rule-part-1/06-the-golden-rule-part-1.mp3",
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./06-the-golden-rule-part-1/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./06-the-golden-rule-part-1/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./06-the-golden-rule-part-1/Bass.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}

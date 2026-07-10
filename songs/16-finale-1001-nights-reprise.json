@@ -1,0 +1,19 @@
+{
+    "title": "16 Finale - 1001 Nights Reprise",
+    "notes": null,
+    "tracks": [
+        {
+            "title": "Song",
+            "url": "./16-finale-1001-nights-reprise/16-finale-1001-nights-reprise.mp3",
+            "pan": 0,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        }
+    ],
+    "master": {
+        "pan": 0,
+        "gain": 1,
+        "muted": false
+    }
+}
