@@ -106,7 +106,9 @@
   <script src="./vue-audio-mixer.min.js"></script>
 
   <script>
-    navigator.audioSession.type = "playback";
+    try {
+      navigator.audioSession.type = "playback";
+    } catch (e) {}
     const app = new Vue({
       el: '#app',
       data: function () {
