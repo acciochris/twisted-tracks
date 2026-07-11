@@ -5,7 +5,47 @@
         {
             "title": "Song",
             "url": "./16-finale-1001-nights-reprise/16-finale-1001-nights-reprise.mp3",
-            "pan": 0,
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./16-finale-1001-nights-reprise/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Alto",
+            "url": "./16-finale-1001-nights-reprise/Alto.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./16-finale-1001-nights-reprise/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Baritone",
+            "url": "./16-finale-1001-nights-reprise/Baritone.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./16-finale-1001-nights-reprise/Bass.m4a",
+            "pan": 70,
             "gain": 1,
             "muted": false,
             "hidden": false

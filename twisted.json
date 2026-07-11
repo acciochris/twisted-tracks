@@ -11,9 +11,24 @@
             "configUrl": "./songs/06-the-golden-rule-part-1.json"
         },
         {
+            "id": "06a-the-golden-rule-part-2",
+            "label": "06A The Golden Rule - Part 2",
+            "configUrl": "./songs/06a-the-golden-rule-part-2.json"
+        },
+        {
+            "id": "12-no-one-remembers-achmed",
+            "label": "12 No One Remembers Achmed",
+            "configUrl": "./songs/12-no-one-remembers-achmed.json"
+        },
+        {
             "id": "14-twisted",
             "label": "14 Twisted",
             "configUrl": "./songs/14-twisted.json"
+        },
+        {
+            "id": "16-finale-1001-nights-reprise",
+            "label": "16 Finale - 1001 Nights Reprise",
+            "configUrl": "./songs/16-finale-1001-nights-reprise.json"
         }
     ]
 }

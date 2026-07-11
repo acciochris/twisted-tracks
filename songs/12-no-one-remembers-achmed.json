@@ -5,7 +5,39 @@
         {
             "title": "Song",
             "url": "./12-no-one-remembers-achmed/12-no-one-remembers-achmed.mp3",
-            "pan": 0,
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./12-no-one-remembers-achmed/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Alto",
+            "url": "./12-no-one-remembers-achmed/Alto.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./12-no-one-remembers-achmed/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./12-no-one-remembers-achmed/Bass.m4a",
+            "pan": 70,
             "gain": 1,
             "muted": false,
             "hidden": false

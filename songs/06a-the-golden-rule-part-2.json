@@ -5,7 +5,39 @@
         {
             "title": "Song",
             "url": "./06a-the-golden-rule-part-2/06a-the-golden-rule-part-2.mp3",
-            "pan": 0,
+            "pan": -70,
+            "gain": 0.7,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Soprano",
+            "url": "./06a-the-golden-rule-part-2/Soprano.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Alto",
+            "url": "./06a-the-golden-rule-part-2/Alto.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Tenor",
+            "url": "./06a-the-golden-rule-part-2/Tenor.m4a",
+            "pan": 70,
+            "gain": 1,
+            "muted": false,
+            "hidden": false
+        },
+        {
+            "title": "Bass",
+            "url": "./06a-the-golden-rule-part-2/Bass.m4a",
+            "pan": 70,
             "gain": 1,
             "muted": false,
             "hidden": false
